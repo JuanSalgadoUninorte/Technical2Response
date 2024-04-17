@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Propina</string>
+    <string name="cost_of_service">Valor del servicio</string>
+    <string name="how_was_the_service">¿Cómo estuvo el servicio?</string>
+    <string name="amazing_service">Maravilloso (20%)</string>
+    <string name="good_service">Bueno (18%)</string>
+    <string name="ok_service">Normal (15%)</string>
+    <string name="round_up_tip">¿Redondear propina?</string>
+    <string name="calculate">Calcular</string>
+    <string name="tip_amount">Total propina</string>
+</resources>
